@@ -1,7 +1,6 @@
 ### HTML5 semantic
-[HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-
-[HTML5 Semantic Tags](https://www.semrush.com/blog/semantic-html5-guide/)
+- [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+- [HTML5 Semantic Tags](https://www.semrush.com/blog/semantic-html5-guide/)
 
 
 
