@@ -14,3 +14,4 @@
 ### HTML and SVG
 - [Грабли на чистом SVG](http://css.yoksel.ru/svg-in-ie8/#begin/)
 - [SVG-иконки](http://css.yoksel.ru/svg-icons/)
+- [SVG как альтернатива ImageMap](http://webmaster.alexanderklimov.ru/html/svg/imagemap.php/)
