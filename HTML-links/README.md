@@ -16,4 +16,4 @@
 - [Грабли на чистом SVG](http://css.yoksel.ru/svg-in-ie8/#begin/)
 - [SVG-иконки](http://css.yoksel.ru/svg-icons/)
 - [SVG как альтернатива ImageMap](http://webmaster.alexanderklimov.ru/html/svg/imagemap.php/)
-- [The power of sprites](https://www.creativebloq.com/features/the-complete-guide-to-svg/6)
+- [The power of SVG sprites](https://www.creativebloq.com/features/the-complete-guide-to-svg/6)
