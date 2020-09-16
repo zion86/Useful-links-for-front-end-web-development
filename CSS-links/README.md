@@ -1,4 +1,5 @@
 ### CSS class naming methodology - BEM
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words/blob/master/README.md)
 - [BEM cheat sheet](https://9elements.com/bem-cheat-sheet/)
 - [How To Name Containers And Wrappers In BEM](https://scalablecss.com/naming-bem-wrappers-and-containers/)
 - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/)
