@@ -1,5 +1,6 @@
 ### CSS class naming methodology - BEM
 - [BEM cheat sheet](https://9elements.com/bem-cheat-sheet/)
+- [Методология БЭМ верстки. Теория и практический пример](https://webformyself.com/metodologiya-bem-verstki-primer/)
 
 ### CSS custom checkbox
 - [Создание доступных чекбоксов и радиокнопок на чистом CSS](https://webformyself.com/sozdanie-dostupnyx-chekboksov-i-radioknopok-na-chistom-css/)
