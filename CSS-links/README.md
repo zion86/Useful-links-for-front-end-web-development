@@ -1,5 +1,6 @@
 ### CSS class naming methodology - BEM
 - [BEM cheat sheet](https://9elements.com/bem-cheat-sheet/)
+- [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/)
 - [Методология БЭМ верстки. Теория и практический пример](https://webformyself.com/metodologiya-bem-verstki-primer/)
 
 ### CSS custom checkbox
