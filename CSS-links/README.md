@@ -19,3 +19,7 @@
 - [Медиа-запросы CSS: точки останова, типы устройств, стандартные разрешения и многое другое](https://nuancesprog.ru/p/7640/)
 - [Media Queries Breakpoints For Responsive Design In 2020](http://devfacts.com/media-queries-breakpoints-2020/)
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+
+### CSS mobile first
+- [Let's Design Mobile First](https://blog.webjeda.com/mobile-first-web-design/)
+- [Mobile first example](https://allfrontend.online/solves/mobile-first-page-example)
