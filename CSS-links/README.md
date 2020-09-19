@@ -8,6 +8,7 @@
 ### CSS selectors
 - [Css-селекторы](http://css.yoksel.ru/css-selectors/)
 - [Css-селекторы, часть 2](http://css.yoksel.ru/css-selectors-part2/)
+- [Nth-child и nth-of-type](http://css.yoksel.ru/nth-child/)
 
 ### CSS custom checkbox
 - [Создание доступных чекбоксов и радиокнопок на чистом CSS](https://webformyself.com/sozdanie-dostupnyx-chekboksov-i-radioknopok-na-chistom-css/)
