@@ -8,7 +8,7 @@
 
 ### HTML forms
 - [Полное руководство по элементам HTML-формы](https://proglib.io/p/study_html_forms/)
-
+- [HTML forms](https://marksheet.io/html-forms.html)
 ### HTML Web Components
 - [Інтро до Веб-компонентів](https://codeguida.com/post/1753/)
 
