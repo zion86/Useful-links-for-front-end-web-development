@@ -9,6 +9,8 @@
 ### HTML forms
 - [Полное руководство по элементам HTML-формы](https://proglib.io/p/study_html_forms/)
 - [HTML forms](https://marksheet.io/html-forms.html)
+- [CSS-only Custom Styled Select](https://levelup.gitconnected.com/css-only-custom-styled-select-99b1b022bfbf)
+
 ### HTML Web Components
 - [Інтро до Веб-компонентів](https://codeguida.com/post/1753/)
 
