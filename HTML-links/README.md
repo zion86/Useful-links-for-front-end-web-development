@@ -11,6 +11,9 @@
 - [HTML forms](https://marksheet.io/html-forms.html)
 - [CSS-only Custom Styled Select](https://levelup.gitconnected.com/css-only-custom-styled-select-99b1b022bfbf)
 
+### HTML table
+- [Complete guide table element](https://css-tricks.com/complete-guide-table-element/)
+
 ### HTML Web Components
 - [Інтро до Веб-компонентів](https://codeguida.com/post/1753/)
 
