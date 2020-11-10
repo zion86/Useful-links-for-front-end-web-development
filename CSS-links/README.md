@@ -1,3 +1,6 @@
+### CSS reset
+- [CSS reset](https://jgthms.com/minireset.css/)
+
 ### CSS class naming methodology - BEM
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words/blob/master/README.md)
 - [BEM cheat sheet](https://9elements.com/bem-cheat-sheet/)
