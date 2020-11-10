@@ -17,6 +17,8 @@
 
 ### Padding and margin
 - [Padding вы можете оставить свое сообщение. Поля и отступы CSS: отличия свойств margin и padding](https://beasthackerz.ru/odnoklassniki/padding-vy-mozhete-ostavit-svoe-soobshchenie-polya-i-otstupy-css-otlichiya.html)
+- [Всё о магии отступов в CSS Flexbox](https://medium.com/@stasonmars/%D0%B2%D1%81%D0%B5%CC%88-%D0%BE-%D0%BC%D0%B0%D0%B3%D0%B8%D0%B8-%D0%BE%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%B2-%D0%B2-css-flexbox-afaf6067a7f3)
+
 ### CSS media queries
 - [Медиа-запросы CSS: точки останова, типы устройств, стандартные разрешения и многое другое](https://nuancesprog.ru/p/7640/)
 - [Media Queries Breakpoints For Responsive Design In 2020](http://devfacts.com/media-queries-breakpoints-2020/)
