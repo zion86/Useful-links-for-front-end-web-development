@@ -15,6 +15,9 @@
 - [Styling HTML Checkboxes Is Super Easy](https://dev.to/proticm/styling-html-checkboxes-is-super-easy-302o)
 - [Всё о "checkbox"](http://shpargalkablog.ru/2013/08/checked.html)
 
+### Padding and margin
+- [Padding вы можете оставить свое сообщение. Поля и отступы CSS: отличия свойств margin и padding](https://beasthackerz.ru/odnoklassniki/padding-vy-mozhete-ostavit-svoe-soobshchenie-polya-i-otstupy-css-otlichiya.html
+
 ### CSS media queries
 - [Медиа-запросы CSS: точки останова, типы устройств, стандартные разрешения и многое другое](https://nuancesprog.ru/p/7640/)
 - [Media Queries Breakpoints For Responsive Design In 2020](http://devfacts.com/media-queries-breakpoints-2020/)
