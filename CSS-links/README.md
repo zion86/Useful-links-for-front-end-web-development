@@ -22,10 +22,12 @@
 ### CSS color
 - [Цвета в CSS](https://m.habr.com/ru/company/ruvds/blog/505626/)
 
-### CSS custom checkbox
+#### CSS custom checkbox
 - [Создание доступных чекбоксов и радиокнопок на чистом CSS](https://webformyself.com/sozdanie-dostupnyx-chekboksov-i-radioknopok-na-chistom-css/)
 - [Styling HTML Checkboxes Is Super Easy](https://dev.to/proticm/styling-html-checkboxes-is-super-easy-302o)
 - [Всё о "checkbox"](http://shpargalkablog.ru/2013/08/checked.html)
+#### CSS custom form input
+- [How to style forms with CSS: A beginner’s guide](https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/)
 
 ### Padding and margin
 - [Padding вы можете оставить свое сообщение. Поля и отступы CSS: отличия свойств margin и padding](https://beasthackerz.ru/odnoklassniki/padding-vy-mozhete-ostavit-svoe-soobshchenie-polya-i-otstupy-css-otlichiya.html)
