@@ -19,6 +19,9 @@
 - [Почему псевдоэлементы ::before и ::after не работают для полей ввода и картинок](http://odinokun.com/2020-09-24-pochemu-psevdoelementy-before-i-after-ne-rabotayut-dlya-polej-vvoda-i-kartinok.html)
 - [content](http://css.yoksel.ru/content/)
 
+### CSS color
+- [Цвета в CSS](https://m.habr.com/ru/company/ruvds/blog/505626/)
+
 ### CSS custom checkbox
 - [Создание доступных чекбоксов и радиокнопок на чистом CSS](https://webformyself.com/sozdanie-dostupnyx-chekboksov-i-radioknopok-na-chistom-css/)
 - [Styling HTML Checkboxes Is Super Easy](https://dev.to/proticm/styling-html-checkboxes-is-super-easy-302o)
