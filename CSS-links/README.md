@@ -10,6 +10,9 @@
 - [Css-селекторы, часть 2](http://css.yoksel.ru/css-selectors-part2/)
 - [Nth-child и nth-of-type](http://css.yoksel.ru/nth-child/)
 
+### ::before & ::after
+- [Почему псевдоэлементы ::before и ::after не работают для полей ввода и картинок](http://odinokun.com/2020-09-24-pochemu-psevdoelementy-before-i-after-ne-rabotayut-dlya-polej-vvoda-i-kartinok.html)
+
 ### CSS custom checkbox
 - [Создание доступных чекбоксов и радиокнопок на чистом CSS](https://webformyself.com/sozdanie-dostupnyx-chekboksov-i-radioknopok-na-chistom-css/)
 - [Styling HTML Checkboxes Is Super Easy](https://dev.to/proticm/styling-html-checkboxes-is-super-easy-302o)
