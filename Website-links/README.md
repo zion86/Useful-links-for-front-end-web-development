@@ -1,2 +1,3 @@
 - [shpargalkablog.ru](http://shpargalkablog.ru/)
 - [xsltdev.ru](https://xsltdev.ru/)
+- [code.mu](http://code.mu/)
