@@ -42,5 +42,7 @@
 - [Let's Design Mobile First](https://blog.webjeda.com/mobile-first-web-design/)
 - [Mobile first example](https://allfrontend.online/solves/mobile-first-page-example)
 
-### Animatable CSS properties
+### Animatable and inheritable CSS properties
 - [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+- [Inheritable CSS properties](https://www.w3.org/TR/CSS21/propidx.html)
+
