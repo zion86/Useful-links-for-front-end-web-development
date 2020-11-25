@@ -25,6 +25,7 @@
 - [SVG как альтернатива ImageMap](http://webmaster.alexanderklimov.ru/html/svg/imagemap.php/)
 - [The power of SVG sprites](https://www.creativebloq.com/features/the-complete-guide-to-svg/6)
 - [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
+- [Как добавить SVG в HTML5 страницу](https://svg-art.ru/?page_id=1047)
 
 ### HTML and usemap
 - [Как сделать несколько ссылок на одной картинке | HTML](http://shpargalkablog.ru/2015/02/several-references-in-the-picture.html)
