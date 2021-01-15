@@ -1,4 +1,5 @@
 - [HTML spec.](https://html.spec.whatwg.org/)
+- [HTML accessibility](https://www.w3.org/WAI/tutorials/)
 
 ### HTML5 semantic
 - [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
