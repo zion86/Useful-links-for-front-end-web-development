@@ -1,5 +1,6 @@
 - [HTML spec.](https://html.spec.whatwg.org/)
 - [HTML accessibility](https://www.w3.org/WAI/tutorials/)
+- [ARIA plactices](https://www.w3.org/TR/wai-aria-practices/examples/)
 - [Accessible custom dropdown list](https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html)
 
 ### HTML5 semantic
