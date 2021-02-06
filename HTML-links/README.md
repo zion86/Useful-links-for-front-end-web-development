@@ -15,6 +15,7 @@
 - [Полное руководство по элементам HTML-формы](https://proglib.io/p/study_html_forms/)
 - [HTML forms](https://marksheet.io/html-forms.html)
 - [CSS-only Custom Styled Select](https://levelup.gitconnected.com/css-only-custom-styled-select-99b1b022bfbf)
+- [Как структурировать HTML-формы](https://developer.mozilla.org/ru/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
 
 ### HTML table
 - [Complete guide table element](https://css-tricks.com/complete-guide-table-element/)
