@@ -19,3 +19,4 @@
 
 ### JS regExp
 - [regExp guide](https://maxello.gitbooks.io/js-note/content/19_regular_exp/konspekt_regulyarnie_virazheniya.html)
+- [Регулярные выражения (regexp) — основы](https://m.habr.com/ru/post/545150/)
