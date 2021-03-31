@@ -30,3 +30,7 @@
 ### JS regExp
 - [regExp guide](https://maxello.gitbooks.io/js-note/content/19_regular_exp/konspekt_regulyarnie_virazheniya.html)
 - [Регулярные выражения (regexp) — основы](https://m.habr.com/ru/post/545150/)
+
+
+### JS tips
+[20 сокращений JavaScript, которые сэкономят ваше время](https://nuancesprog.ru/p/10967/)
