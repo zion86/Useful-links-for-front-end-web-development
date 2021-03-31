@@ -9,6 +9,10 @@
 ### JS Objects
 - [JavaScript Object Destructuring, Spread Syntax, and the Rest Parameter – A Practical Guide](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter)
 
+
+### JS classes
+- [The Complete Guide to JavaScript Classes](https://dmitripavlutin.com/javascript-classes-complete-guide/)
+
 ### JS and CSS media queries
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/)
 - [Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
