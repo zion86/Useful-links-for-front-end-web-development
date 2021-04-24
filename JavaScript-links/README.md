@@ -34,3 +34,6 @@
 
 ### JS tips
 [20 сокращений JavaScript, которые сэкономят ваше время](https://nuancesprog.ru/p/10967/)
+
+### Event loop
+- [Що таке цикл подій та стек викликів у JavaScript](https://codeguida.com/post/2662)
