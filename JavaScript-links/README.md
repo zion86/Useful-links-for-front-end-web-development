@@ -37,3 +37,4 @@
 
 ### Event loop
 - [Що таке цикл подій та стек викликів у JavaScript](https://codeguida.com/post/2662)
+- [Понимание синхронного и асинхронного JavaScript с Async/Await](https://proweb63.ru/help/js/js-async-await)
