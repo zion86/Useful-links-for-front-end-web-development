@@ -11,6 +11,9 @@
 - [Искусство семантики HTML, часть 1](https://frontender.info/the-art-of-html-semantics-pt1/#iskusstvosemantikihtmlchasty1)
 - [Semantic HTML, CSS Selectors & Specificity](https://medium.com/matts-lambda-minutes/matts-lambda-minute-semantic-html-css-selectors-specificity-6f227a52bd25/)
 
+### HTML attributes
+- [HTML attributes list](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+
 ### HTML forms
 - [Полное руководство по элементам HTML-формы](https://proglib.io/p/study_html_forms/)
 - [HTML forms](https://marksheet.io/html-forms.html)
