@@ -1,3 +1,6 @@
+### JS tutorials
+- [EZ LESSONS](https://ezlessons.ru/java-script)
+
 ### JS DOM
 - [Манипуляции с DOM на чистом JavaScript](https://tproger.ru/translations/dom-javascript/)
 - [Не паси задних: используй DOM как профессионал](https://proglib.io/p/ne-pasi-zadnih-ispolzuy-dom-kak-professional-2019-09-11)
