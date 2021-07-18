@@ -1,5 +1,6 @@
 ### JS tutorials
-- [EZ LESSONS](https://ezlessons.ru/java-script)
+- [ezlessons.ru](https://ezlessons.ru/java-script)
+- [flagman.top](https://flagman.top/spravochnik-po-javascript)
 
 ### JS DOM
 - [Манипуляции с DOM на чистом JavaScript](https://tproger.ru/translations/dom-javascript/)
