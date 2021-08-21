@@ -44,5 +44,5 @@
 
 ### Animatable and inheritable CSS properties
 - [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
-- [Inheritable CSS properties](https://www.w3.org/TR/CSS21/propidx.html)
-
+- [Inheritable CSS properties 2020](https://www.w3.org/TR/CSS21/propidx.html)
+- [Inheritatable CSS properties 2021](https://www.w3.org/TR/CSS22/propidx.html)
