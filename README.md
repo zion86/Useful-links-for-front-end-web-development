@@ -7,3 +7,4 @@
 * [UX/UI](https://github.com/zion86/Useful-links-for-front-end-web-development/blob/master/UX-UI/README.md)
 
 * [Webpage render](https://webdevblog.ru/kak-brauzer-renderit-veb-stranicu/)
+* [Ресурси, що блокують рендеринг: як правильно їх позбутися](https://codeguida.com/post/3100)
